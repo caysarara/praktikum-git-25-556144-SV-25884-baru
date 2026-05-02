@@ -2,3 +2,6 @@
 
 # Screenshoot Git Log  
 ![Git log](screenshoot.png)
+
+# Screenshoot Brand Protected Rules
+![Git log](screenshoot2.png)
